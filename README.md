@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kyel-A12
--
+- I am a freelancer
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning wifi-hacking
 - 💞️ I’m looking to collaborate on ...
